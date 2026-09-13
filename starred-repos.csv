@@ -1,0 +1,695 @@
+rank,stars,full_name,language,archived,description
+1,261015,mattpocock/skills,Shell,no,Skills for Real Engineers. Straight from my .agents directory.
+2,250401,react/react,JavaScript,no,The library for web and native user interfaces.
+3,245080,NousResearch/hermes-agent,Python,no,The agent that grows with you
+4,212731,multica-ai/andrej-karpathy-skills,,no,"A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
+5,207053,anomalyco/opencode,TypeScript,no,The open source coding agent.
+6,180801,ollama/ollama,Go,no,"Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models."
+7,179798,firecrawl/firecrawl,TypeScript,no,"The context API to search, scrape, and interact with the web at scale. 🔥"
+8,146226,langchain-ai/langchain,Python,no,The agent engineering platform.
+9,137102,DietrichGebert/ponytail,JavaScript,no,Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+10,136240,github/spec-kit,Python,no,💫 Toolkit to help you get started with Spec-Driven Development
+11,132829,garrytan/gstack,TypeScript,no,"Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA"
+12,132627,farion1231/cc-switch,Rust,no,"A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io"
+13,128089,ggml-org/llama.cpp,C++,no,LLM inference in C/C++
+14,123096,harry0703/MoneyPrinterTurbo,Python,no,利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
+15,116348,Graphify-Labs/graphify,Python,no,"Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store."
+16,111036,tauri-apps/tauri,Rust,no,"Build smaller, faster, and more secure desktop and mobile applications with a web frontend."
+17,106957,google-gemini/gemini-cli,TypeScript,no,An open-source AI agent that brings the power of Gemini directly into your terminal.
+18,105323,JuliusBrussee/caveman,Go,no,🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+19,95956,oven-sh/bun,Rust,no,"Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one"
+20,95880,nexu-io/open-design,TypeScript,no,"🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK."
+21,95702,karpathy/autoresearch,Python,no,AI agents running research on single-GPU nanochat training automatically
+22,93910,addyosmani/agent-skills,JavaScript,no,Production-grade engineering skills for AI coding agents.
+23,93788,thedotmack/claude-mem,TypeScript,no,"Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
+24,91624,vllm-project/vllm,Python,no,A high-throughput and memory-efficient inference and serving engine for LLMs
+25,90608,infiniflow/ragflow,Go,no,RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
+26,89774,astral-sh/uv,Rust,no,"An extremely fast Python package and project manager, written in Rust."
+27,89329,OpenCut-app/OpenCut,TypeScript,no,The open-source CapCut alternative
+28,87746,OpenHands/OpenHands,TypeScript,no,🙌 OpenHands: AI-Driven Development
+29,86777,Leonxlnx/taste-skill,JavaScript,no,"Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop "
+30,83054,unclecode/crawl4ai,Python,no,"🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN"
+31,82459,Egonex-AI/Understand-Anything,TypeScript,no,"Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more."
+32,82340,bytedance/deer-flow,Python,no,"An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours."
+33,80679,D4Vinci/Scrapling,Python,no,🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
+34,80280,Panniantong/Agent-Reach,Python,no,"Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
+35,80150,rtk-ai/rtk,Rust,no,"CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies"
+36,79449,Z4nzu/hackingtool,Python,no,ALL IN ONE Hacking Tool For Hackers
+37,74946,ComposioHQ/awesome-claude-skills,Python,no,"A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows"
+38,72463,666ghj/MiroFish,Python,no,"A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物"
+39,71844,headroomlabs-ai/headroom,Python,no,"Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server."
+40,71438,career-ops-hq/career-ops,JavaScript,no,"Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)"
+41,70666,colbymchenry/codegraph,C,no,"Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local"
+42,69009,code-yeongyu/oh-my-openagent,TypeScript,no,"OmO: Just type ""mass ulw"" keyword with your prompt. Now you are the master of graph engineering."
+43,68120,Fission-AI/OpenSpec,TypeScript,no,Spec-driven development (SDD) for AI coding assistants.
+44,67927,cline/cline,TypeScript,no,"Autonomous coding agent as an SDK, IDE extension, or CLI assistant."
+45,67805,gorhill/uBlock,JavaScript,no,uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+46,65814,asgeirtj/system_prompts_leaks,JavaScript,no,"Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly."
+47,65576,diegosouzapw/OmniRoute,TypeScript,no,"Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors"
+48,65225,mem0ai/mem0,Python,no,The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
+49,63362,virattt/ai-hedge-fund,Python,no,An AI Hedge Fund Team
+50,62201,usestrix/strix,Python,no,Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+51,61737,coollabsio/coolify,PHP,no,"An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers."
+52,59328,rust-unofficial/awesome-rust,Rust,no,A curated list of Rust code and resources.
+53,58630,BerriAI/litellm,Python,no,"The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]"
+54,58451,crewAIInc/crewAI,Python,no,"Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks."
+55,58197,calesthio/OpenMontage,Python,no,"World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio."
+56,57104,Raphire/Win11Debloat,PowerShell,no,"A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11."
+57,54062,hugohe3/ppt-master,Python,no,"AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He"
+58,53108,jamiepine/voicebox,TypeScript,no,"The open-source AI voice studio. Clone, dictate, create."
+59,52549,VoltAgent/awesome-openclaw-skills,,no,"The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞"
+60,52148,run-llama/llama_index,Python,no,LlamaIndex is the document processing platform for AI
+61,51628,router-for-me/CLIProxyAPI,Go,no,"Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model through API"
+62,49700,multica-ai/multica,Go,no,Make humans and AI agents work as one team — open-source and self-hostable.
+63,49618,astral-sh/ruff,Rust,no,"An extremely fast Python linter and code formatter, written in Rust."
+64,49397,heygen-com/hyperframes,TypeScript,no,Write HTML. Render video. Built for agents.
+65,49347,HKUDS/CLI-Anything,Python,no,"""CLI-Anything: Making ALL Software Agent-Native"" -- CLI-Hub: https://clianything.cc/"
+66,49109,moeru-ai/airi,TypeScript,no,"💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported."
+67,49095,mudler/LocalAI,Go,no,"LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required."
+68,48930,Aider-AI/aider,Python,no,aider is AI pair programming in your terminal
+69,48086,HKUDS/nanobot,Python,no,"Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps"
+70,47997,QuantumNous/new-api,Go,no,"A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management."
+71,47964,KeygraphHQ/shannon,TypeScript,no,"Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production."
+72,47555,blader/humanizer,Python,no,Agent skill that removes signs of AI-generated writing from text
+73,46297,MHSanaei/3x-ui,Go,no,"Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG) "
+74,45534,cmliu/edgetunnel,JavaScript,no,edgetunnel2 VLESS/Trojan/SS 多功能面板
+75,43986,ayghri/i-have-adhd,Python,no,A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+76,43789,ray-project/ray,Python,no,Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
+77,43163,danny-avila/LibreChat,TypeScript,no,"Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active"
+78,42490,vercel-labs/agent-browser,Rust,no,Browser automation CLI for AI agents
+79,41379,Wei-Shaw/sub2api,Go,no,Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+80,40430,AstrBotDevs/AstrBot,Python,no,"AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨"
+81,39732,tinyhumansai/openhuman,Rust,no,"OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows"
+82,39608,HKUDS/LightRAG,Python,no,[EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation
+83,39507,HKUDS/DeepTutor,Python,no,DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
+84,38691,lfnovo/open-notebook,TypeScript,no,An Open Source implementation of Notebook LM with more flexibility and features
+85,37997,stanfordnlp/dspy,Python,no,DSPy: The framework for programming—not prompting—language models
+86,37265,Dokploy/dokploy,TypeScript,no,"Open Source Alternative to Vercel, Netlify and Heroku."
+87,37219,musistudio/claude-code-router,TypeScript,no,"One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control."
+88,37034,OpenBMB/VoxCPM,Python,no,"VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning"
+89,36960,volcengine/OpenViking,Python,no,"Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills."
+90,36717,ItzCrazyKns/Vane,TypeScript,no,Vane is an AI-powered answering engine.
+91,36399,THU-MAIC/OpenMAIC,TypeScript,no,"Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
+92,36392,AlexsJones/llmfit,Rust,no,Hundreds of models & providers. One command to find what runs on your hardware.
+93,35894,sgl-project/sglang,Python,no,SGLang is a high-performance serving framework for large language models and multimodal models.
+94,35746,zhaoxuya520/reverse-skill,PowerShell,no,"Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
+95,35524,esengine/DeepSeek-Reasonix,Go,no,DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
+96,34187,fish-shell/fish-shell,Rust,no,The user-friendly command line shell.
+97,33467,pear-devs/pear-desktop,TypeScript,no,Pear 🍐 is extension for music player
+98,32791,iOfficeAI/AionUi,TypeScript,no,"Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!"
+99,32786,zeroclaw-labs/zeroclaw,Rust,no,"Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀"
+100,32714,mukul975/Anthropic-Cybersecurity-Skills,Python,no,"817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0"
+101,31765,hsliuping/TradingAgents-CN,Python,no,基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
+102,31682,hesamsheikh/awesome-openclaw-usecases,,no,A community collection of OpenClaw use cases for making life easier.
+103,31618,freestylefly/awesome-gpt-image-2,JavaScript,no,Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。
+104,31403,CloakHQ/CloakBrowser,Python,no,Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
+105,31391,webtorrent/webtorrent,JavaScript,no,⚡️ Streaming torrent client for the web
+106,31296,stanford-oval/storm,Python,no,An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
+107,31272,p-e-w/heretic,Python,no,Fully automatic censorship removal for language models
+108,30922,can1357/oh-my-pi,TypeScript,no,⌥ Coding agent with the IDE wired in
+109,30900,ScrapeGraphAI/Scrapegraph-ai,Python,no,Python scraper based on AI
+110,30848,getzep/graphiti,Python,no,Build Real-Time Knowledge Graphs for AI Agents
+111,30754,nanocoai/nanoclaw,TypeScript,no,"A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK"
+112,30504,iOfficeAI/OfficeCLI,C#,no,"OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required."
+113,29975,sipeed/picoclaw,Go,no,"Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity"
+114,29970,imDazui/Tvlist-awesome-m3u-m3u8,,no,直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
+115,29872,Predidit/Kazumi,Dart,no,基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。
+116,29871,garrytan/gbrain,TypeScript,no,Garry's Opinionated OpenClaw/Hermes Agent Brain
+117,29430,assafelovic/gpt-researcher,Python,no,An autonomous agent that conducts deep research on any data using any LLM providers
+118,29207,JustVugg/colibri,C,no,"Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
+119,28618,decolua/9router,JavaScript,no,"Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits."
+120,28408,Anil-matcha/Open-Generative-AI,JavaScript,no,"Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed."
+121,28324,yamadashy/repomix,TypeScript,no,"📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more."
+122,28073,ATH-MaaS/Pixelle-Video,Python,no,🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
+123,28066,eyaltoledano/claude-task-master,JavaScript,no,"An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others."
+124,28047,charmbracelet/crush,Go,no,Glamourous agentic coding for all 💘
+125,27820,QwenLM/qwen-code,TypeScript,no,An open-source AI coding agent that lives in your terminal.
+126,26907,h4ckf0r0day/obscura,Rust,no,The headless browser for AI agents and web scraping
+127,26561,TencentCloud/TencentDB-Agent-Memory,TypeScript,no,"TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks."
+128,25960,mozilla-ai/llamafile,C++,no,Distribute and run LLMs with a single file.
+129,25929,tashfeenahmed/freellmapi,TypeScript,no,"7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only."
+130,25863,JimLiu/baoyu-skills,TypeScript,no,
+131,25773,biomejs/biome,Rust,no,"A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP."
+132,25762,Cinnamon/kotaemon,Python,no,An open-source RAG-based tool for chatting with your documents.
+133,25365,toon-format/toon,TypeScript,no,"🎒 Token-Oriented Object Notation (TOON) – compact, human-readable serialization of JSON data for LLM prompts. TypeScript SDK, CLI, benchmarks."
+134,25041,VoltAgent/awesome-claude-code-subagents,Shell,no,A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
+135,24805,karpathy/llm-council,Python,no,LLM Council works together to answer your hardest questions
+136,24800,browser-use/video-use,Python,no,Edit videos with coding agents
+137,24720,letta-ai/letta,,no,Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.
+138,24682,titanwings/distilly,Python,no,Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.
+139,24265,browserbase/stagehand,TypeScript,no,The SDK For Browser Agents
+140,24263,tursodatabase/turso,Rust,no,"A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases."
+141,23770,vxcontrol/pentagi,Go,no,Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+142,23770,slopus/happy,TypeScript,no,"Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured"
+143,23554,vectorize-io/hindsight,Python,no,Hindsight: Agent Memory That Learns
+144,23514,different-ai/openwork,TypeScript,no,The open-source alternative to Claude Cowork (powered by opencode)
+145,23402,verl-project/verl,Python,no,verl/HybridFlow: A Flexible and Efficient RL Post-Training Framework 
+146,23309,HKUDS/RAG-Anything,Python,no,"""RAG-Anything: All-in-One RAG Framework"""
+147,23152,mlc-ai/mlc-llm,Python,no,Universal LLM Deployment Engine with ML Compilation
+148,22879,czlonkowski/n8n-mcp,TypeScript,no,A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you 
+149,22775,1Panel-dev/MaxKB,Python,no,🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。
+150,22726,oxc-project/oxc,Rust,no,⚓ A collection of high-performance JavaScript tools.
+151,22553,mksglu/context-mode,TypeScript,no,"Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks."
+152,22400,winfunc/opcode,TypeScript,no,"A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more."
+153,21841,mack-a/v2ray-agent,Shell,no,Xray、Tuic、hysteria2、sing-box 八合一一键脚本
+154,21748,guidance-ai/guidance,Jupyter Notebook,no,A guidance language for controlling large language models.
+155,21538,dockur/macos,Shell,no,MacOS inside a Docker container.
+156,21515,dyad-sh/dyad,TypeScript,no,"Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!"
+157,19931,Alibaba-NLP/DeepResearch,Python,no,"Tongyi Deep Research, the Leading Open-source Deep Research Agent"
+158,19508,kvcache-ai/ktransformers,Python,no,A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations
+159,19296,teng-lin/notebooklm-py,Python,no,"Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw."
+160,19279,nashsu/llm_wiki,TypeScript,no,"LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。"
+161,18994,jianchang512/pyvideotrans,Python,no,Translate the video from one language to another and embed dubbing & subtitles.
+162,18588,every-app/open-seo,TypeScript,no,Open source alternative to Semrush and Ahrefs
+163,18439,nukeop/nuclear,TypeScript,no,Streaming music player that finds free music for you
+164,18326,google-gemini/gemini-fullstack-langgraph-quickstart,Jupyter Notebook,no,Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
+165,18309,nesquena/hermes-webui,Python,no,Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
+166,18219,jbiaojerry/ebook-treasure-chest,Python,no,欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。
+167,18176,RightNow-AI/openfang,Rust,no,Open-source Agent Operating System
+168,17897,Diolinux/PhotoGIMP,Python,no,A Patch for GIMP 3+ for Photoshop Users
+169,17096,getpaseo/paseo,TypeScript,no,Orchestrate multiple coding agents from desktop and mobile
+170,17093,hardikpandya/stop-slop,,no,A skill file for removing AI tells from prose
+171,17055,RyanCodrai/turbovec,Rust,no,"A vector index built on TurboQuant, written in Rust with Python bindings"
+172,16984,microsoft/SkillOpt,Python,no,"SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts."
+173,16872,cft0808/edict,Python,no,"🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails"
+174,16444,langchain-ai/openwiki,TypeScript,no,OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
+175,16136,MODSetter/SurfSense,Python,no,"Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Indeed, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://discord.gg/ejRNvftDp9"
+176,15790,dottxt-ai/outlines,Python,no,Structured Outputs
+177,15595,Anionex/banana-slides,TypeScript,no,一站式原生AI PPT生成应用，几分钟内生成一套幻灯片; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt、视频等 - An AI-native slides generator based on nano banana pro🍌
+178,15546,HBAI-Ltd/Toonflow-app,TypeScript,no,"Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow is an open-source AI tool that turns stories and scripts into animated short dramas. Features AI scriptwriting, storyboarding, character and video generation. A cross-platform desktop app for efficient content creation."
+179,15454,coderamp-labs/gitingest,Python,no,Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase 
+180,15453,GreyDGL/PentestGPT,Python,no,Automated Penetration Testing Agentic Framework Powered by Large Language Models
+181,15243,greensock/gsap-skills,,no,"Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage."
+182,15095,chatfire-AI/huobao-drama,Vue,no,"🎬 火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》  Huobao Drama - An AI-Powered End-to-End Short Drama Generator ""One Sentence to Complete Drama: Fully Automated from Script to Final Video"""
+183,14998,amnezia-vpn/amnezia-client,C++,no,Amnezia VPN Client (Desktop+Mobile)
+184,14963,yusufkaraaslan/Skill_Seekers,Python,no,"Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection"
+185,14765,nelvko/clash-for-linux-install,Shell,no,😼 优雅地使用基于 clash/mihomo 的代理环境
+186,14613,NVIDIA/TensorRT-LLM,Python,no,TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.
+187,14571,fmhy/FMHY,,no,https://fmhy.net/
+188,14561,AndyMik90/Aperant,TypeScript,no,Autonomous multi-session AI coding
+189,14411,aiming-lab/AutoResearchClaw,Python,no,Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞
+190,14402,NevaMind-AI/memU,Python,no,Personal memory across agents
+191,14182,lsdefine/GenericAgent,Python,no,"Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption"
+192,14152,maillab/cloud-mail,JavaScript,no,A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail
+193,13947,rolldown/rolldown,Rust,no,Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
+194,13881,567-labs/instructor,Python,no,structured outputs for llms 
+195,13778,nanobrowser/nanobrowser,TypeScript,no,Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
+196,13268,juewuy/ShellCrash,Shell,no,Run sing-box/mihomo as client in shell
+197,13262,bin456789/reinstall,Shell,no,一键DD/重装脚本 (One-click reinstall OS on VPS)
+198,12983,memstechtips/Winhance,C#,no,"Application designed to optimize, customize and enhance your Windows experience."
+199,12979,Portkey-AI/gateway,TypeScript,no,"A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly API."
+200,12924,EverMind-AI/EverOS,Python,no,"One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows."
+201,12898,web-infra-dev/rspack,Rust,no,Fast Rust-based bundler for the web with a modernized webpack API 🦀
+202,12619,nearai/ironclaw,Rust,no,"IronClaw is an Agent OS focused on privacy, security and extensibility"
+203,12616,Wei-Shaw/claude-relay-service,JavaScript,no,CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+204,12367,HKUDS/ViMax,Python,no,"""ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"""
+205,12300,run-llama/liteparse,Rust,no,"A fast, helpful, and open-source document parser"
+206,12262,oblien/openship,TypeScript,no,Self-hosted deployment platform
+207,11998,mrexodia/ida-pro-mcp,Python,no,AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
+208,11884,zaidmukaddam/scira,TypeScript,no,Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK!
+209,11857,0x4m4/hexstrike-ai,Python,no,"HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities."
+210,11783,LMCache/LMCache,Python,no,LMCache: Supercharge Your LLM with the Fastest KV Cache Layer
+211,11682,LostRuins/koboldcpp,C++,no,Run GGUF models easily with a KoboldAI UI. One File. Zero Install.
+212,11592,helloianneo/ian-xiaohei-illustrations,,no,中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
+213,11190,cobusgreyling/loop-engineering,TypeScript,no,"Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost."
+214,11063,linyqh/NarratoAI,Python,no,利用 AI 大模型，一键解说并剪辑视频
+215,10903,accomplish-ai/coworker,,no,
+216,10616,abetlen/llama-cpp-python,Python,no,Python bindings for llama.cpp
+217,10512,JOYCEQL/magic-resume,TypeScript,no,free online AI resume editor，the only official website is  https://magicv.art
+218,10410,zyddnys/manga-image-translator,Python,no,Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ (no longer working)
+219,10253,pinchtab/pinchtab,Go,no,High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.
+220,10233,chaitin/PandaWiki,TypeScript,no,PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力。
+221,10188,presenton/presenton,TypeScript,no,"Open-Source AI Presentation Generator and API (Gamma, Canva, Beautiful AI, Decktopus, Presentations AI Alternative)"
+222,10126,BehiSecc/awesome-claude-skills,,no,A curated list of Claude Skills.
+223,9901,alireza0/s-ui,Go,no,An advanced Web Panel • Built for SagerNet/Sing-Box
+224,9790,Tiiny-AI/PowerInfer,C++,no,High-speed Large Language Model Serving for Local Deployment
+225,9786,HKUDS/AutoAgent,Python,no,"""AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"""
+226,9370,higress-group/higress,Go,no,🤖 AI Gateway | AI Native API Gateway
+227,9265,vinceliuice/WhiteSur-gtk-theme,CSS,no,MacOS like theme for all gtk based desktops
+228,9179,BoundaryML/baml,Rust,no,The programming language for agents
+229,9080,LearningCircuit/local-deep-research,Python,no," ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted."
+230,8776,justlovemaki/AIClient2API,JavaScript,no,"Self-hosted multi-protocol AI API proxy for Antigravity, Codex, Grok, Kiro, OpenAI, Claude, and custom providers. Supports OpenAI-compatible API, Claude API, Gemini protocol conversion, GPT, Grok Build, Claude Opus, Gemini Pro, Kimi, MiniMax, provider pools, smart routing, and automatic failover."
+231,8594,santinic/audiblez,Python,no,Generate audiobooks from e-books
+232,8456,THUDM/slime,Python,no,slime is an LLM post-training framework for RL Scaling.
+233,8445,bytedance/flowgram.ai,TypeScript,no,"FlowGram is an extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler."
+234,8262,zilliztech/deep-searcher,Python,no,Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.
+235,8082,nullclaw/nullclaw,Zig,no,"Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig"
+236,8049,ai-dynamo/dynamo,Rust,no,A Datacenter Scale Distributed Inference Serving Framework
+237,8016,maximhq/bifrost,Go,no,"Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS."
+238,7997,SciPhi-AI/R2R,Python,no,SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API.
+239,7918,fujiapple852/trippy,Rust,no,A network diagnostic tool 
+240,7822,deepseek-ai/DeepGEMM,Cuda,no,DeepGEMM: clean and efficient BLAS kernel library on GPU
+241,7715,HuLaSpark/HuLa,Vue,no,"🍀 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS）"
+242,7654,mufeedvh/code2prompt,Rust,no,"A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting."
+243,7647,chenyme/grok2api,Go,no,"Multi-account API gateway for Grok Build, Grok Web, and Grok Console"
+244,7612,HKUDS/OpenSpace,Python,no,"""OpenSpace: The Skill Management Layer for AI Agents"" -- https://open-space.cloud/"
+245,7568,mnfst/awesome-free-llm-apis,JavaScript,no,List of Permanent Free LLM API  (API Keys)
+246,7522,mnfst/llm-gateway,TypeScript,no,Connect Your Agents And Harnesses With Any Provider 🦚
+247,7516,refly-ai/refly,TypeScript,no,"The first open-source agent skills builder. Define skills by vibe workflow, run on Claude Code, Cursor, Codex & more. Build Clawdbot 🦞· APIs for Lovable · Bots for Slack & Lark/Feishu · Skills are infrastructure, not prompts."
+248,7427,traceloop/openllmetry,Python,no,"Open-source observability for your GenAI or LLM application, based on OpenTelemetry"
+249,7399,trailhq/Graft,TypeScript,no,"Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebase."
+250,7397,lzhoang2801/OpCore-Simplify,Python,no,A tool designed to simplify the creation of OpenCore EFI
+251,7297,zhouxiaoka/autoclip,Python,no,AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具
+252,7115,deepseek-ai/DeepSpec,Python,no,DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
+253,7078,lingfengQAQ/webnovel-writer,Python,no,基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。
+254,7022,TheTom/turboquant_plus,Python,no,
+255,7000,lintsinghua/DeepAudit,Python,no,DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源的代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。支持中转站。​让安全不再昂贵，让审计不再复杂。
+256,6781,vllm-project/vllm-omni,Python,no,A framework for efficient model inference with omni-modality models
+257,6719,tbphp/gpt-load,Go,no,"Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usage. 自托管 AI 网关：多渠道多凭据统一接入，含密钥与订阅账号、调度容错、日志与用量。"
+258,6657,genspark-ai/genoffice,TypeScript,no,"Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent. Edits real .docx/.xlsx/.pptx files, converts PDF to Word on-device, bring your own key. macOS, Windows & Linux."
+259,6652,microsoft/LLMLingua,Python,no,"[EMNLP'23, ACL'24] To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss. "
+260,6616,steipete/agent-scripts,Shell,no,"Scripts for agents, shared between my repositories."
+261,6592,BlockRunAI/ClawRouter,TypeScript,no,"The agent-native LLM router for autonomous agents. Every frontier model behind one wallet, <1ms local routing, USDC payments on Base & Solana via x402."
+262,6578,AIPentest/CyberStrikeAI,Go,no,"The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next."
+263,6547,souzatharsis/podcastfy,Python,no,An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI
+264,6317,ThinkInAIXYZ/deepchat,TypeScript,no,🐬DeepChat - A smart assistant that connects powerful AI to your personal world
+265,6309,KunAgent/Kun,TypeScript,no,"Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for desktop GUI and TUI."
+266,6300,modelscope/FunClip,Python,no,"FunASR-powered video transcription, subtitle generation, and LLM-assisted clipping tool with a local Gradio UI."
+267,6153,Helicone/helicone,TypeScript,no,"🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓"
+268,6114,elder-plinius/T3MP3ST,TypeScript,no,autonomous red teaming platform; multi-agent offensive-security meta-harness
+269,6062,YILING0013/AI_NovelGenerator,Python,no,使用ai生成多章节的长篇小说，自动衔接上下文、伏笔
+270,6018,netease-youdao/LobsterAI,TypeScript,no,"Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram."
+271,5887,kserve/kserve,Go,no,"Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes"
+272,5867,Michael-A-Kuykendall/shimmy,Rust,no,"⚡ Pure-Rust WebGPU inference engine — OpenAI-API compatible, GGUF native, runs on any GPU. No Python. No llama.cpp. Single binary."
+273,5776,vllm-project/semantic-router,Go,no,A programmable Mixture-of-Models router for heterogeneous LLM inference
+274,5752,areal-project/AReaL,Python,no,The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.
+275,5700,lemonade-sdk/lemonade,C++,no,Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
+276,5692,ageerle/ruoyi-ai,Java,no,"An enterprise AI development framework for building AI agents. It provides unified management of multi-provider LLMs, secure enterprise knowledge bases with high-precision retrieval, visual workflow orchestration and multi-agent coordination. Compatible with mainstream Agent Skill standards, it enables developers to efficiently build production-gra"
+277,5650,xykt/NetQuality,Shell,no,网络质量检测脚本 - Network Quality Check Script
+278,5636,fscarmen/sing-box,Shell,no,Sing-box 全家桶 --- 一键多协议脚本。支持 Reality、Hysteria2 、TUIC 、Trojan 、Shadowsocks 、 AnyTLS 、ShadowTLS 、 Vmess 、 VLESS 、NaiveProxy，搭配 Argo 隧道等，多客户端订阅（Clash / V2rayN / Throne / ShadowRocket / SFA ），无须域名、功能强大、配置灵活。
+279,5538,HisMax/RedInk,Python,no,"Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, ""One Sentence, One Image: Generate Xiaohongshu Text and Images."""
+280,5511,ATH-MaaS/ComfyUI-Copilot,TypeScript,no,An AI-powered custom node for ComfyUI designed to enhance workflow automation and provide intelligent assistance
+281,5501,PurpleAILAB/Decepticon,Python,no,Autonomous Hacking Agent for Red Team
+282,5383,ysharma3501/LuxTTS,Python,no,A high-quality rapid TTS voice cloning model that reaches speeds of 150x realtime.
+283,5370,YILS-LIN/short-video-factory,TypeScript,no,"一键生成产品营销与泛内容短视频，AI批量自动剪辑，高颜值跨平台桌面端工具 One click generation of product marketing and general content short videos, AI batch automatic cliping, beautiful cross platform desktop tool"
+284,5347,nanbingxyz/5ire,TypeScript,no,"5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers,  supports local knowledge base and  tools via model context protocol servers ."
+285,5226,jina-ai/node-DeepResearch,TypeScript,no,"Keep searching, reading webpages, reasoning until it finds the answer (or exceeding the token budget)"
+286,5214,looplj/axonhub,Go,no,"⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing."
+287,5197,braedonsaunders/codeflow,HTML,no,"Paste any GitHub URL → interactive architecture map. See how files connect, find what breaks if you change something. No install, no accounts — runs entirely in your browser."
+288,5181,sentient-agi/ROMA,Python,no,Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.
+289,5161,su-kaka/gcli2api,Python,no,将 GeminiCLI 和 Antigravity 转换为 OpenAI 、GEMINI 和 Claude API 接口
+290,5119,MatrixSeven/file-transfer-go,TypeScript,no,Go/React开发的端到端webrtc的文件传输/文字传输/桌面共享，安全，隐私，数据不经过服务器。
+291,5086,vllm-project/aibrix,Go,no,Cost-efficient and pluggable Infrastructure components for GenAI inference
+292,5053,SaladDay/cc-switch-cli,Rust,no,"⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI."
+293,5036,sgl-project/mini-sglang,Python,no,"A compact implementation of SGLang, designed to demystify the complexities of modern LLM serving systems."
+294,5029,ShadowHackrs/gmail-account-creator,Python,no,"🚀 Advanced automated Gmail account creation tool with anti-detection, phone verification bypass, 5sim integration, and beautiful modern interface. Create Gmail accounts in bulk with ease."
+295,4992,malisper/pgrust,Rust,no,"Postgres rewritten in Rust, now faster than Postgres and Clickhouse"
+296,4699,yangjian102621/geekai,Vue,no,"AI 助手全套开源解决方案，自带运营管理后台，开箱即用。集成了 ChatGPT, Azure, ChatGLM,讯飞星火，文心一言等多个平台的大语言模型。支持 MJ AI 绘画，Stable Diffusion AI  绘画，微博热搜等插件工具。采用 Go + Vue3 + element-plus 实现。"
+297,4683,u14app/deep-research,JavaScript,no,Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server.
+298,4621,turboderp-org/exllamav2,Python,no,A fast inference library for running LLMs locally on modern consumer-class GPUs
+299,4616,ruc-datalab/DeepAnalyze,Python,no,DeepAnalyze is the first agentic LLM for autonomous data science. 🎈你的AI数据分析师，自动分析大量数据，一键生成专业分析报告！
+300,4570,nexu-io/html-video,HTML,no,"Programmatic video for coding agents — HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, 21 templates, AI soundtrack. Apache-2.0, no per-render fees. An official project by the Open Design team."
+301,4521,MemeCalculate/moyin-creator,TypeScript,no,AI 影视生产级工具 | 支持 Seedance 2.0 | 剧本到成片全流程批量化 | AI-powered film production tool with Seedance 2.0 support
+302,4520,llm-d/llm-d,Shell,no,Achieve state of the art inference performance with modern accelerators on Kubernetes
+303,4465,trifectatechfoundation/sudo-rs,Rust,no,A memory safe implementation of sudo and su.
+304,4458,CortexReach/memory-lancedb-pro,JavaScript,no,"Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI"
+305,4446,ArcReel/ArcReel,Python,no,"AI Agent 驱动的开源可自部署视频工作台：将小说与剧本转为角色、场景、道具资产、分镜、视频和剪映草稿，支持跨镜头一致性、多供应商与费用追踪 | Self-hosted AI video workspace for stories, storyboards and short-form video production"
+306,4409,denuitt1/mhr-cfw,Python,no,A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.
+307,4354,conorbronsdon/avoid-ai-writing,JavaScript,no,"Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes."
+308,4219,open-legal-products/mike,TypeScript,no,OSS Legal AI Platform
+309,4202,Opencode-DCP/opencode-dynamic-context-pruning,TypeScript,no,Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage
+310,4180,haris-musa/excel-mcp-server,Python,no,A Model Context Protocol server for Excel file manipulation
+311,4174,aipoch/open-science,TypeScript,no,"AIPOCH Open-Science is an open-source, local-first, model-agnostic AI research workbench for macOS, Windows, and Linux, with scientific agents, Python/R notebooks, data connectors, and reproducible provenance."
+312,4173,hafrey1/LunaTV-config,JavaScript,no,MoonTV/LunaTV源配置，每日自动检测API状态，可在CF部署CORSAPI中转被墙API，本人提供的CORSAPI仅为测试使用，请勿滥用！
+313,4153,yusing/godoxy,Go,no,High-performance reverse proxy and container orchestrator for self-hosters
+314,4014,hanshuaikang/AI-Media2Doc,Vue,no,一键将音视频转化为小红书/公众号/知识笔记/思维导图/视频字幕等各种风格的文档。
+315,4011,kunchenguid/gnhf,TypeScript,no,"Before I go to bed, I tell my agents: good night, have fun"
+316,4004,OpenBMB/PilotDeck,TypeScript,no,Task-oriented AI Agent productivity platform
+317,3925,arxhr007/Aliens_eye,Python,no,Hunt down 840+ social media accounts using AI
+318,3894,aurelio-labs/semantic-router,Python,no,Superfast AI decision making and intelligent processing of multi-modal data.
+319,3856,circlemind-ai/fast-graphrag,Python,no,"RAG that intelligently adapts to your use case, data, and queries"
+320,3831,HKUDS/Paper2Slides,Python,no,"""Paper2Slides: From Paper to Presentation in One Click"""
+321,3794,SciSharp/LLamaSharp,C#,no,A C#/.NET library to run LLM (🦙LLaMA/LLaVA) on your local device efficiently.
+322,3648,Mouseww/anything-analyzer,TypeScript,no,"全能协议分析工具：浏览器抓包 + MITM 代理 + 指纹伪装 + AI 分析 + MCP Server 无缝对接 AI Agent/IDE   |  All-in-one protocol analysis toolkit — built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration"
+323,3628,dexhunter/seedance2-skill,,no,skill to create best prompts for generating videos with seedance2.0
+324,3614,TinyAGI/tinyagi,TypeScript,no,TinyAGI is the agent teams orchestrator for One Person Company. (fka TinyClaw)
+325,3601,zc-zhangchen/any-auto-register,Python,no,
+326,3601,nextlevelbuilder/goclaw,Go,no,"GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety."
+327,3570,synthetic-sciences/openscience,TypeScript,no,The open-source AI workbench for scientific research
+328,3556,AtalayaLabs/OxiCloud,Rust,no,"☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust."
+329,3540,SkyworkAI/DeepResearchAgent,Python,no,"DeepResearchAgent is a hierarchical multi-agent system designed not only for deep research tasks but also for general-purpose task solving. The framework leverages a top-level planning agent to coordinate multiple specialized lower-level agents, enabling automated task decomposition and efficient execution across diverse and complex domains."
+330,3516,EverMind-AI/MSA,Python,no,"Memory Sparse Attention -  A scalable, end-to-end trainable latent-memory framework for 100M-token contexts."
+331,3495,aiming-lab/MetaClaw,Python,no,🦞 Just talk to your agent — it learns and EVOLVES 🧬.
+332,3454,any4ai/AnyCrawl,TypeScript,no,AnyCrawl 🚀: A Node.js/TypeScript crawler that turns websites into LLM-ready data and extracts structured SERP results from Google/Bing/Baidu/etc. Native multi-threading for bulk processing.
+333,3432,mayukh4/linux-android,Shell,no,"Turn an old Android phone into a GPU-accelerated Linux desktop (XFCE4 / KDE Plasma / LXQt / MATE) or a Home Assistant smart home server — using Termux. No root, no PC, no cloud."
+334,3420,miaoxworld/OpenClawInstaller,Shell,no,ClawdBot 一键部署工具
+335,3416,martin-olivier/airgorah,Rust,no,A WiFi security auditing software
+336,3400,Mesh-LLM/mesh-llm,Rust,no,Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.
+337,3352,metorial/metorial,TypeScript,no,"Connect any AI model to 1200+ integrations (MCP, CLI, API)"
+338,3327,letta-ai/letta-code,TypeScript,no,"Stateful agents that are like people, with memory, identity, and the ability to learn and adapt"
+339,3318,duolahypercho/codex-router,JavaScript,no,"External-model router for Codex with guided Kimi OAuth/API, DeepSeek, safe migration, and rollback."
+340,3283,fqscfqj/Y2A-Auto,Python,no,YouTube到AcFun和bilibili自动化搬运工具，支持AI翻译、字幕生成、内容审核、智能监控
+341,3268,lxf746/any-auto-register,Python,no,"Auto-register & manage accounts for ChatGPT, Cursor, Kiro, Grok, Windsurf, Trae & 13+ AI platforms · Protocol/browser dual-mode · Plugin-based · One-click Mac/Windows desktop app"
+342,3258,pasky/chrome-cdp-skill,JavaScript,no,"Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open"
+343,3240,PastKing/tgbot-verify,Python,no,一个基于 Python Telegram Bot 的自动化认证工具，能够自动完成 SheerID 平台的学生/教师身份验证流程。
+344,3218,ikawrakow/ik_llama.cpp,C++,no,llama.cpp fork with additional SOTA quants and improved performance
+345,3187,Sophomoresty/gemini-web2api,Python,no,"Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file."
+346,3109,nuver-labs/vps-audit,Shell,no,"lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers."
+347,3097,subtrace/subtrace,Go,no,Network inspector for your backend
+348,3086,cosmicstack-labs/mercury-agent,TypeScript,no,"Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram."
+349,3075,robert-mcdermott/ai-knowledge-graph,Python,no,AI Powered Knowledge Graph Generator
+350,3072,GH05TCREW/pentestagent,Python,no,"PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-team, and penetration testing workflows."
+351,3026,zerx-lab/FluxDown,Rust,no,Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。
+352,3026,jinchenma94/bazi-skill,Python,no,四柱八字命理分析
+353,3022,allweonedev/presentation-ai,TypeScript,no,ALLWEONE® Open source AI presentation generator Gamma Alternative. Create professional slides with customizable themes and AI-generated content in minutes.
+354,3017,MaxMiksa/Auto-Company,Python,no,An auto-company works for 24/7 on your own PC - Windows/Linux/macOS.
+355,3001,dimthink/PriceAI,TypeScript,no,AI 订阅卡网渠道比价工具：聚合100+卡网渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道报价，展示有货最低价、库存状态和原站购买链接。
+356,2997,thu-pacman/chitu,Python,no,"High-performance inference framework for large language models, focusing on efficiency, flexibility, and availability."
+357,2993,xiamuceer-j/MuMuAINovel,Python,no,一款基于 AI 的智能小说创作助手，帮助你轻松创作精彩故事
+358,2985,nashsu/AutoCLI,Rust,no,"AutoCLI is a  Blazing fast, memory-safe command-line tool — Fetch information from any website with a single command. Covers Twitter/X, Reddit, YouTube, HackerNews, Bilibili, Zhihu, Xiaohongshu, and 55+ sites, with support for controlling Electron desktop apps, integrating local CLI tools (gh, docker, kubectl), now powered by AutoCLI.ai ."
+359,2955,avito-tech/playbook,,no,AvitoTech team playbook
+360,2914,TheSmallHanCat/flow2api,Python,no,无限次数的banana pro！逆向账号池，支持负载均衡、AT自动刷新、缓存策略、代理等。Q交流群1073237297
+361,2892,MartialBE/one-hub,Go,no,OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
+362,2858,moltis-org/moltis,Rust,no,"A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on your hardware."
+363,2853,ulab-uiuc/LLMRouter,Python,no,LLMRouter: An Open-Source Library for LLM Routing
+364,2850,Luce-Org/lucebox,C++,no,LLM speculative inference server for heterogeneous hardware & consumer GPUs
+365,2842,radixark/miles,Python,no,"Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime."
+366,2826,cloudflare/skills,Shell,no,Skills for teaching agents how to build on Cloudflare.
+367,2813,beilunyang/moemail,TypeScript,no,A cute temporary email service built with NextJS + Cloudflare technology stack 🎉 | 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉  
+368,2811,vllm-project/vllm-ascend,C++,no,Community maintained hardware plugin for vLLM on Ascend
+369,2766,oritera/Cairn,Python,no,"A AI general-purpose state-space search engine, validated first on autonomous penetration testing."
+370,2751,sparfenyuk/mcp-proxy,Python,no,A bridge between Streamable HTTP and stdio MCP transports
+371,2716,CyberStrikeus/CyberStrike,TypeScript,no,Open-source AI-powered offensive security harness for automated penetration testing.
+372,2688,mubeng/mubeng,Go,no,An incredibly fast proxy checker & IP rotator with ease.
+373,2686,jgravelle/jcodemunch-mcp,Python,no,"Cut AI token costs 95%+ on code exploration. The leading MCP server for precise, symbol-level GitHub code retrieval via tree-sitter AST. Works with Claude Code, Cursor & any MCP client. 313B+ tokens saved."
+374,2649,org2AI/ORG2,TypeScript,no,System of record for how agents build software: Built-in rust harness & 20+ CLIs.
+375,2642,NarratorAI-Studio/narrator-ai-cli-skill,,no,AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用
+376,2588,jackwener/xiaohongshu-cli,Python,no,"A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API"
+377,2579,srbhptl39/MCP-SuperAssistant,TypeScript,no,"Brings MCP to ChatGPT, DeepSeek, Perplexity, Grok, Gemini, Google AI Studio, OpenRouter, DeepSeek, T3 Chat and more..."
+378,2567,vllm-project/production-stack,Python,no,vLLM’s reference system for K8S-native cluster-wide deployment with community-driven performance optimization
+379,2563,CoderLuii/HolyClaude,JavaScript,no,AI coding workstation: Claude Code + web UI + 8 AI CLIs + headless browser + 50+ tools
+380,2538,enfein/mieru,Go,no,mieru is a socks5 / HTTP / HTTPS proxy to bypass censorship. 見える是一款 socks5 / HTTP / HTTPS 网络代理翻墙工具。
+381,2536,aingdesk/AingDesk,TypeScript,no,"AingDesk是一款简单好用的AI助手，支持知识库、模型API、分享、联网搜索、智能体，它还在飞快成长中。 AingDesk is a simple and easy-to-use AI assistant that supports knowledge bases, model APIs, sharing, internet search, and intelligent agents. It is still growing rapidly."
+382,2507,moazbuilds/CodeMachine-CLI,TypeScript,no,"CodeMachine is an open-source tool that orchestrates AI coding agents into repeatable, long-running workflows. ⚡️"
+383,2495,nusquama/n8nworkflows.xyz,,no,N8N Workflows Catalog
+384,2494,Armur-Ai/Pentest-Swarm-AI,Go,no,"Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools."
+385,2458,jonssonyan/h-ui,Go,no,Just the panel for Hysteria2 / 仅仅是 Hysteria2 的面板
+386,2427,lupinemachines/lupine,C++,no,LUPINE is a GPU over IP bridge allowing GPUs on remote machines to be attached to CPU-only machines.
+387,2384,NodePassProject/Anywhere,Swift,no,"The best native proxy client for iOS, iPadOS, macOS, and tvOS."
+388,2374,TheTom/llama-cpp-turboquant,C++,no,LLM inference in C/C++
+389,2306,Decohererk/DecoTV,TypeScript,no,基于最新版LunaTV二次开发的一个开箱即用的、跨平台的影视聚合播放站。【原KatelyaTV】
+390,2304,zakirkun/deep-eye,Python,no,"Deep Eye orchestrates multiple AI providers (OpenAI, Claude, Grok, Gemini, OLLAMA, Groq, Mistral, OpenRouter, LiteLLM, LM Studio) for intelligent payload generation, scans targets for 45+ vulnerability types, and produces professional reports with compliance mapping."
+391,2301,romgX/openrelay,TypeScript,no,"几百个免费 AI 模型配额，一键接入本地项目。| Hundreds of free AI model quotas, one-click access to local projects. "
+392,2277,guy-hartstein/company-research-agent,Python,no,An agentic company research tool powered by LangGraph and Tavily that conducts deep diligence on companies using a multi-agent framework. It leverages Google's Gemini 2.5 Flash and OpenAI's GPT-5.1 on the backend for inference.
+393,2257,BytePioneer-AI/codex-host,TypeScript,no,Run Pi and Claude Code directly in Codex Desktop. 在 Codex Desktop 中直接运行 Pi 和 Claude Code。
+394,2224,daodao97/chatmcp,Dart,no,ChatMCP is an AI chat client implementing the Model Context Protocol (MCP).
+395,2203,tramhao/termusic,Rust,no,Music Player TUI written in Rust
+396,2203,op7418/Youtube-clipper-skill,Python,no,
+397,2202,AaronL725/grok-register,Python,no,批量稳定注册 Grok 账号，支持 WebUI/GUI/CLI、多邮箱服务、多线程并发、账号级多协议代理池、grok2api 入池、SSO 风控筛查与CPA OIDC 凭证导出。
+398,2177,withcatai/node-llama-cpp,TypeScript,no,Run AI models locally on your machine with node.js bindings for llama.cpp. Enforce a JSON schema on the model output on the generation level
+399,2176,12britz/awesome-free-models,,no,"A curated list of free AI models, APIs, and tools you can use without paying a cent."
+400,2141,LeoYeAI/openclaw-master-skills,Python,no,🧠 Curated collection of 1209+ best OpenClaw skills — weekly updated by MyClaw.ai
+401,2117,lightseekorg/tokenspeed,Python,no,TokenSpeed is a speed-of-light LLM inference engine.
+402,2105,cyberagiinc/DevDocs,TypeScript,no,"Completely free, private, UI based Tech Documentation MCP server. Designed for coders and software developers in mind. Easily integrate into Cursor, Windsurf, Cline, Roo Code, Claude Desktop App "
+403,2092,raphaelmansuy/edgequake,Rust,no,EdegQuake 🌋 High-performance GraphRAG inspired from LightRag written in Rust; Transform documents into intelligent knowledge graphs for superior retrieval and generation
+404,2057,vibheksoni/stealth-browser-mcp,Python,no,"The only browser automation that bypasses anti-bot systems. AI writes network hooks, clones UIs pixel-perfect via simple chat."
+405,2025,open-compress/claw-compactor,Python,no,"14-stage Fusion Pipeline for LLM token compression — reversible compression, AST-aware code analysis, intelligent content routing. Zero LLM inference cost. MIT licensed."
+406,1987,3441293738/creatorhub,Python,no,多平台内容监控·采集·搬运 一个 Web 面板管起抖音 / 小红书 / 快手
+407,1955,arcsin1/oh-my-ppt,TypeScript,no,"Describe what you need — a presentation, lesson, or story — and let the AI build clean, beautiful HTML slides for you. Local-first. Works offline. Works for you."
+408,1933,RightNow-AI/picolm,C,no,Run a 1-billion parameter LLM on a $10 board with 256MB RAM
+409,1909,xerj-org/xerj,Rust,no,"XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work."
+410,1861,LingyiChen-AI/AIComicBuilder,TypeScript,no,"  AI-powered animated comic generator — transform scripts into fully animated videos with AI-driven character design,    storyboarding, and video synthesis.  "
+411,1854,YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill,TypeScript,no,"AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images."
+412,1851,1234567Yang/cf-proxy-ex,JavaScript,no,"Cloudflare超级代理，无服务器代理，Duckduckgo代理（可用AI聊天，包含GPT4o/Claude3），Github加速，支持解锁Libgen，在线代理。现已支持多平台部署。Cloudflare super proxy, setting up a free serverless proxy by using Cloudflare worker, support Duckduckgo / Libgen. Now you can deploy this project on different platforms."
+413,1847,RanFeng/clipsketch-ai,TypeScript,no,将视频瞬间转化为手绘故事 Turn Video Moments into Hand-Drawn Stories
+414,1795,0xsline/OpenChatCut,TypeScript,no,"Open-source, local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion rendering."
+415,1794,nolanx-ai/nolanx.ai,Python,no,"Nolanx, Open-sourced AI Netflix."
+416,1792,HITsz-TMG/VideoClaw,Python,no,🚀 AI 全自动化视频生成员工 | Your First AIGC Coworker. Chat an Idea. Get a Film. 🦞
+417,1767,Sync-in/server,TypeScript,no,"Sync-in · Sovereign platform for file storage, sharing, synchronization, and collaboration."
+418,1762,Feather-2/Burner-X,JavaScript,no,Burner X - 浏览器即开即用，AI文献识别、文档批量翻译、阅读与智能分析工具 丨BYOK
+419,1755,rlaope/oh-my-hermes,Python,no,"All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages"
+420,1734,vllm-project/vllm-metal,Python,no,Community maintained hardware plugin for vLLM on Apple Silicon
+421,1731,zubair-trabzada/ai-legal-claude,Python,no,"AI Legal Assistant skill for Claude Code. Contract review, risk analysis, NDA generation, compliance auditing, negotiation strategy, and PDF reports — 14 skills, 5 parallel agents. If you want to learn how to sell this to real businesses, check out the Skool community"
+422,1724,pablostanley/yoinks,TypeScript,no,yoink any video from your terminal. no shady ads.
+423,1713,fish2018/YPrompt,,no,通过对话挖掘用户需求，并自动生成专业的提示词，支持系统/用户提示词优化、效果对比，版本管理和支持即时渲染的操练场，新增通过多轮对话绘图改图，图片逆推提示词、绘图提示词优化，https://yprompt.252035.xyz   公共账号：demo / demo
+424,1699,miaoxworld/openclaw-manager,TypeScript,no,
+425,1694,cubewhy/skid-homework,TypeScript,no,"Ergonomically designed, AI-powered homework solver. | 符合人体工程学设计、人工智能驱动的作业助手 | 平庸者的苦工到此为止，这是来自外星的效率补丁 (by Gemini)"
+426,1677,jasonwong1991/easy_proxies,Go,no,"A proxy node pool management tool based on sing-box, supporting multiple protocols, automatic failover and load balancing.  基于 sing-box 的代理节点池管理工具，支持多协议、多节点自动故障转移和负载均衡。"
+427,1674,GVCoder09/NoDPI,Python,no,NoDPI is a utility for bypassing the DPI (Deep Packet Inspection)
+428,1667,0xSteph/pentest-ai,Python,no,Open-source AI pentester that proves every finding. Machine oracles re-run each exploit; verified bugs ship a proof capsule you can replay yourself.
+429,1662,langchain-ai/langmem,Python,no,
+430,1654,LlamaEdge/LlamaEdge,Rust,no,The easiest & fastest way to run customized and fine-tuned LLMs locally or on the edge
+431,1638,mediar-ai/terminator,Rust,no,playwright for windows computer use 
+432,1635,yang0/handraw-style,HTML,no,手绘风格编号画廊与双语提示词 Skill
+433,1589,t59688/arboris-novel,Python,no,AI 写作伙伴，点亮你的创作灵感
+434,1556,skernelx/tavily-key-generator,Python,no,"Multi-service toolkit for Tavily and Firecrawl signup automation, key validation, and isolated proxy pools."
+435,1537,xxnuo/open-coreui,Svelte,no,"Open CoreUI - A rewritten Open WebUI in Rust, significantly reducing memory and resource usage, requiring no dependency services, no Docker, with both a server version and a Tauri-based desktop client. (formerly Open WebUI Lite)"
+436,1522,abundantbeing/hermes-browser-extension,JavaScript,no,Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.
+437,1470,limecloud/lime,TypeScript,no,"Full-stack AI agent for coding, files, terminals, tools, research, content, multimodal work, and multi-agent workflows."
+438,1456,DEEIX-AI/DEEIX-Chat,Go,no,"An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations."
+439,1445,JailbrokenAI/wallbreaker,Python,no,
+440,1441,razvandimescu/numa,Rust,no,"Portable DNS resolver in Rust — .numa local domains, ad blocking, developer overrides"
+441,1436,felladrin/awesome-ai-web-search,HTML,no,List of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
+442,1401,larlarua/AutoCVE,Python,no,"Agent-driven automated CVE discovery platform for source code auditing, vulnerability verification, and report generation."
+443,1372,mullvad/gotatun,Rust,no,Userspace WireGuard® Implementation in Rust
+444,1364,cfrs2005/claude-init,Shell,no,Claude Code 中文开发套件 - 为中国开发者定制的零门槛 AI 编程环境。一键安装完整中文化体验，集成 MCP 服务器、智能上下文管理、安全扫描，支持免翻墙访问。让 AI 编程更简单。
+445,1363,firecrawl/open-scouts,TypeScript,no,🔥 AI-powered web monitoring platform. Create automated scouts that search the web and send email alerts when they find what you're looking for. 
+446,1352,Dataojitori/nocturne_memory,Python,no,"A lightweight, rollbackable, and visual Long-Term Memory Server for MCP Agents. Say goodbye to Vector RAG and amnesia. Empower your AI with persistent, graph-like structured memory across any model, session, or tool. Drop-in replacement for OpenClaw."
+447,1323,uluckyXH/OpenMOSS,Python,no,"A self-organizing multi-agent collaboration platform for OpenClaw. Multiple AI agents work as an autonomous team — planning, executing, reviewing, and patrolling tasks with zero human intervention."
+448,1312,GFW4Fun/x-ui-pro,Shell,no,"XUI-PRO nginx reverse proxy with ws/grpc/httpupgrade/splithttp,xray protocol support: vless,vmess,trojan,shadowsocks panel cloudflare ssl,xtls,ssr,v2fly,v2ray installer bypass restrictions sing-box,shadowtls,reality,tunnel,gfw tor warp wireguard geoip tuic clash vpn mihomo psiphon hy2 oneclick argo bbr wstunnel anticensorship⚡🛡️"
+449,1291,astaxie/TokenHub,Go,no,"TokenHub gives enterprises a private gateway to unify AI model access and governance, making every request controllable, traceable, and attributable."
+450,1277,wddadk/Offensive-OSINT-Tools,,no,OffSec OSINT Pentest/RedTeam Tools
+451,1271,Ouonnki/OuonnkiTV,TypeScript,no,Ouonnki TV —— 一键搭建个人影视站，支持Vercel自动部署，基于LibreTV修改
+452,1260,kubeai-project/kubeai,Go,no,"AI Inference Operator for Kubernetes. The easiest way to serve ML models in production. Supports VLMs, LLMs, embeddings, and speech-to-text."
+453,1253,RongleCat/grok-app,TypeScript,no,"Open-source Grok App — desktop workbench (GUI) for the local Grok Build CLI: sessions, projects, media, automations. Tauri 2."
+454,1244,orbien-org/orbien,Rust,no,一个轻量高性能的内网穿透，二进制体积大约5MB ，支持 TCP、QUIC、KCP、WebSocket 传输协议，支持 TCP、UDP、HTTP、HTTPS、SOCKS5 协议代理，提供纯Rust原生跨平台桌面客户端和服务端 Web 界面
+455,1237,amElnagdy/guard-skills,,no,"Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs"
+456,1231,TIGER-AI-Lab/OpenResearcher,Python,no,OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory Synthesis
+457,1181,FANzR-arch/Numerologist_skills,Python,no,🔮 An engineering framework to stop LLM hallucinations in Chinese astrology. / 给“赛博半仙”戴上紧箍咒：减少幻觉、固定排盘步骤的奇门遁甲与紫微斗数 AI skills。
+458,1178,agiresearch/A-mem,Python,no,A-MEM: Agentic Memory for LLM Agents
+459,1175,ztx888/HaloWebUI,Python,no,基于官方OpenWebUI，汉化界面提高中文使用体验，增加了模型计费和用量统计
+460,1172,sgl-project/sglang-omni,Python,no,"SGLang-Omni is a high-performance serving framework for audio models (TTS, ASR) and unified multimodal models."
+461,1168,sgl-project/SpecForge,Python,no,Train speculative decoding models effortlessly and port them smoothly to SGLang serving.
+462,1158,Willxup/cpa-usage-keeper,Go,no,Standalone CliProxyAPI usage tracker with SQLite persistence and built-in dashboard.
+463,1157,PortSwigger/mcp-server,Kotlin,no,MCP Server for Burp
+464,1133,wasabeef/claude-code-cookbook,Shell,no,A collection of settings to make Claude Code more useful.
+465,1127,withkynam/vibecode-pro-max-kit,JavaScript,no,"Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 15 agents, 33 skills working with /goal, agent-team, & workflow on autopilot loops with 0 need for human gate. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack"
+466,1122,scadastrangelove/awesome-ai-security-tools,Python,no,"A curated list of public-source, research, and commercial tools for AI security and AI-assisted cybersecurity — autotriage, agent security, AI/ML supply chain, pentest agents, AI SAST, LLM-driven fuzzing, threat intelligence, SOC/SIEM triage, reverse engineering, LLM red-teaming, and more."
+467,1107,dp-archive/archive,Python,no,Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI.
+468,1105,Zarestia-Dev/rclone-manager,TypeScript,no,RClone Manager is a cross-platform GUI application designed to help users manage Rclone remotes efficiently.
+469,1076,Anbeeld/beellama.cpp,C++,no,"KVarN, KV cache precision tail, low-bit quants in llama.cpp for longer context of better precision in the same VRAM"
+470,1072,christian-fei/my-yt,JavaScript,no,"A clean and minimal youtube frontend, without all the ads and whistles"
+471,1059,CRui5in/paper-ppt-agent,Python,no,Generate editable PPT decks from paper PDFs or LaTeX sources
+472,1058,yokingma/SearChat,TypeScript,no,"Search + Chat = SearChat(AI Chat with Search), Support OpenAI/Anthropic/VertexAI/Gemini, DeepResearch, SearXNG, Docker.  AI对话式搜索引擎，支持DeepResearch, 支持OpenAI/Anthropic/VertexAI/Gemini接口、聚合搜索引擎SearXNG，支持Docker一键部署。"
+473,1045,Ttungx/codex_auto_register,Python,no,Codex Register
+474,1039,mybigday/llama.rn,C++,no,React Native binding of llama.cpp
+475,1002,kittors/CliRelay,Go,no,"Self-hosted AI gateway for coding CLIs — one OpenAI/Claude/Gemini/Codex-compatible endpoint, with a multi-tenant web console, request logs, and spend quotas."
+476,998,tanishqkumar/ssd,Python,no,A lightweight inference engine supporting speculative speculative decoding (SSD). 
+477,991,IAAR-Shanghai/SurveyX,TeX,no,Academic Survey Paper Generation.
+478,990,1CatAI/1Cat-vLLM,Python,no,V100 / SM70-focused vLLM engineering fork for modern LLM inference.
+479,986,ShadowHackrs/Gmail-infinity,Python,no,**Gmail Infinity Factory 2026** is an advanced Gmail account automation engine built on next-generation stealth technology. It leverages **CloakBrowser** and **Playwright** with a multi-layer architecture that accurately mimics real human behavior and evades all automated detection systems.
+480,981,cloudflare/nimbus,TypeScript,no,"Docs for humans and agents, built on Astro"
+481,981,HKUDS/AgentSpace,TypeScript,no,"""AgentSpace: Human + Agents. One Team. One Workspace"""
+482,960,ythx-101/x-tweet-fetcher,Python,no,"Fetch X/Twitter tweets, replies, timelines, and articles without login or API keys — field tool for AI agents."
+483,948,KJGX66F/usque-custom-pro,JavaScript,no,基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。
+484,940,go-skynet/go-llama.cpp,C++,no,LLama.cpp golang bindings
+485,915,larashero3-dotcom/lieflat-gongwen,Python,no,通过102万字语料提炼的公文写作 skill，把公文写作风格变成可测量、可验收的量化数据
+486,914,SamNet-dev/paqctl,Shell,no,Unified proxy manager for bypassing firewalls - supports Paqet (KCP/raw socket) and GFW-Knocker (violated TCP/QUIC) with dual-backend simultaneous operation
+487,908,dairoot/Grok-Mirror,Shell,no,🚀 一键部署个人的 Grok 镜像站
+488,905,yeahhe365/AMC-WebUI,TypeScript,no,面向 Gemini 的 Local-First AI 工作流 WebUI，集成多模态聊天、Canvas、文件处理、实时搜索、代码执行与高级推理。
+489,903,lij768423-svg/grok-register-panel,Python,no,Grok 批量注册 (Camoufox) + 实时 Web 监控面板 | Batch Grok registration engine with live panel — concurrency · ASN blacklist · proxy pool · token auth
+490,903,avacocloud/XHTTP-Installer,HTML,no,VLESS+XHTTP+TLS Auto-Installer for Ubuntu — Vercel / Netlify relay
+491,878,l0ng-ai/tty7,Rust,no,"A terminal workbench in pure Rust: shells, persistent sessions, SSH, coding agents. GPU-rendered on Zed's gpui, VT core from Alacritty."
+492,864,guidance-ai/llguidance,Rust,no,Super-fast Structured Outputs
+493,860,Salomondiei08/oh-my-hermes,Shell,no,"An opinionated workflow layer for building, shipping, and operating apps with Hermes Agent"
+494,849,WeianMao/triattention,Python,no,TriAttention — Efficient long reasoning with trigonometric KV cache compression. Enables OpenClaw local deployment on memory-constrained GPUs.
+495,846,kaspanet/rusty-kaspa,Rust,no,Kaspa full-node reference implementation and related libraries in the Rust programming language
+496,837,EthanYoQ/AI-Novel-Writer,TypeScript,no,"AI 小说创作软件：把灵感、角色、世界观、大纲、章节写作、审稿和修稿组织成可控流程；提供 Windows/macOS 桌面版、Ollama 与 DSH 插件预览。AI Novel Writing Software: Organizes inspirations, characters, worldbuilding, outlines, chapter drafting, review, and revision into a controllable workflow. Features desktop apps for Windows/macOS, Ollama integration, and a DeepSeek Harness (DSH) plugin preview."
+497,835,spiritbuun/buun-llama-cpp,C++,no,Experimental llama.cpp fork for inference research and development
+498,833,toby-bridges/api-relay-audit,Python,no,"Local security audit for AI API relays and LLM proxies: detects prompt injection, model substitution, tool-call rewriting, SSE anomalies, error leakage, and Web3 wallet risks."
+499,812,aurora-develop/Duck2api,Go,no,
+500,793,Auriti-Labs/geo-optimizer-skill,Python,no,"Open-source Answer Engine Optimization (AEO) & Generative Engine Optimization (GEO) toolkit — audit, optimize & track whether ChatGPT, Perplexity, Gemini & Google AI Overviews cite your site. AI SEO / LLM SEO. CLI, Python, MCP, Astro."
+501,792,DecartAI/Lucy-Edit-ComfyUI,Python,no,
+502,784,nexu-io/motion-anything,JavaScript,no,"✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation."
+503,768,Kevin-thu/StoryMem,Python,no,Official code for StoryMem: Multi-shot Long Video Storytelling with Memory
+504,767,kubernetes-sigs/gateway-api-inference-extension,Go,no,Gateway API Inference Extension
+505,760,rahilp/second-brain-cloudflare,TypeScript,no,"One memory layer, every AI tool. Store anything once — recall it in Claude, ChatGPT, Cursor, or any MCP client. Self-hosted on Cloudflare's free tier."
+506,758,elliothux/open-compute,Rust,no,"Self-hosted Cloudflare Workers-compatible platform with KV, D1, R2, Durable Objects, Queues, and Workflows in one Rust binary."
+507,756,xiejunjie524/handdraw-story-video,Python,no,Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.
+508,738,tesserato/CodeWeaver,Go,no,"Weave your codebase into a single, navigable Markdown document"
+509,735,microclaw/microclaw,Rust,no,"🦀An agentic AI assistant that lives in your chats, inspired by nanoclaw and incorporating some of its design ideas. Built with Rust 🦀"
+510,720,tbxark/mcp-proxy,Go,no,An MCP proxy server that aggregates and serves multiple MCP resource servers through a single HTTP server.
+511,709,hackerai-tech/hackerai,TypeScript,no,Find and fix vulnerabilities by chatting with AI
+512,708,Kylin010/tcpfit,Shell,no,按每台机器实测推导的 TCP 调优工具 —— 不套用固定参数，实测 BDP 与限速器拐点
+513,701,Quorinex/Freebuff2API,Go,no,"🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment."
+514,694,deanxv/genspark2api,Go,no,
+515,694,CommonstackAI/UncommonRoute,Python,no,"Automatic LLM router — 82% cost savings, 79.4% accuracy, 93.4% pass rate. Drop-in OpenAI proxy."
+516,694,Amery2010/peinture,TypeScript,no,"A general-purpose AI image generation framework that supports Hugging Face, Gitee, Model Scope, and more."
+517,689,aozorae/Edgechat,JavaScript,no,"A modern, self-hosted team chat built on Cloudflare — realtime messaging, Telegram bridge, encrypted messages & files, and WebMCP. | 基于 Cloudflare 的现代自部署团队聊天系统：实时通信、Telegram 双向桥接、消息与文件加密，以及 WebMCP。"
+518,688,kossisoroyce/timber,Python,no,"Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference."
+519,686,pegainfer-project/pegainfer,Rust,no,"Pure Rust + CUDA LLM inference engine — no PyTorch, OpenAI-compatible, serves Qwen3 to Kimi-K2"
+520,681,Avarok-Cybersecurity/atlas,Rust,no,Pure Rust Inference Engine
+521,668,loocor/codmate,Swift,no,"CodMate is a macOS SwiftUI app for managing CLI AI sessions: browse, search, organize, resume, and review work produced by Codex, Claude Code, and Gemini CLI.  It focuses on speed, a compact three-column UI, and “ship it” workflows like Project Review (Git Changes) and one-click Resume/New."
+522,666,xiaolajiaoyyds/regplatformm,Go,no,样板演示请查看～ 不提供技术指导，自己研究，代码无删减，另外：临时邮箱：https://vip.215.im
+523,651,qhkm/zeptoclaw,Rust,no,"Fast, small, secure, local-first personal AI assistant infrastructure: one Rust binary for tools, memory, channels, providers, and sandboxed autonomy."
+524,650,utilityai/llama-cpp-rs,Rust,no,
+525,644,GeekyWizKid/writing-helper,TypeScript,no,"A Next.js-based AI writing assistant supporting multiple LLM APIs (OpenAI, Claude, Gemini, etc.) with rich style customization features to help content creators improve quality and efficiency."
+526,635,browser-use/terminal,Rust,no,Terminal UI to get stuff done in the browser
+527,629,orange2ai/claude-code-now,Shell,no,"The World's Fastest Claude Code Launcher  Make Claude Code launching simpler  Click Dock to launch, or start from any folder instantly."
+528,623,SIA-IOTechnology/Kittysploit-framework,Python,no,"Python Exploitation Framework, V8 Engine Debugger, Proxy interceptor, marketplace, post-exploitation, backdoor generator,...."
+529,618,adoresever/graph-memory,TypeScript,no,"Deepseek Harness、Openclaw知识图谱记忆插件。2026年4月受邀发布在清华大学讨论会。Knowledge Graph + Memory；Knowledge Graph Context Engine for OpenClaw — extracts structured triples from conversations, compresses context 75%, enables cross-session experience reuse"
+530,614,wlzh/skills,Python,no,开源了Codex Skills等集合，大部分是自己实际需要搞得，需要的自取。欢迎star
+531,614,hybridgroup/yzma,Go,no,"Go with your own intelligence - Write Go applications that directly integrate llama.cpp for local inference using hardware acceleration on Linux, macOS, Windows, & WebAssembly."
+532,586,Git-creat7/grokRegister-cpa,Python,no,Grok 自动注册机 — 注册成功后自动入库 CLIProxyAPI (CPA)：支持本地 auth 目录与远程 Management API 上传
+533,584,dama-cyber/Casting-Workflow,Python,no,
+534,567,haradakashiwa/ternssh,TypeScript,no,A web-based SSH solution that can be deployed on Cloudflare Workers.
+535,556,1broseidon/ketch,Go,no,"Fast, stateless CLI for web search and scrape. Built for AI agents."
+536,528,gitbutlerapp/grit,Shell,no,Reimplementing Git in Rust. Like a boss.
+537,528,Regert888/gpt-auto-register,Python,no,
+538,525,kzahel/yepanywhere,TypeScript,no,"Self-hosted web UI for Claude and Codex. Push notifications, file uploads, no accounts, no database. Uses your existing CLI session history."
+539,520,Charles-0509/Grok-Register,Python,no,Grok free-register CLI: register → OAuth → CPA JSON (Go)
+540,510,dflow-sh/dflow,TypeScript,no,
+541,505,yushangxiao/pplx2api,Go,no,pplx2api 对外提供OpenAi 兼容接口，支持识图，思考，搜索，绘图，账户轮询，重试……
+542,504,skydoves/compose-performance-skills,Shell,no,⚡️ A curated library of Agent Skills focused on Jetpack Compose performance.
+543,493,temm1e-labs/temm1e,Rust,no,"One of the ground zero for AGI, maybe, probably. Free and Open Source forever and ever!"
+544,492,xinxinshuhao-create/grok-register,Python,no,"Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon"
+545,490,scrapfly/Antibot-Detector,JavaScript,no," Real-time detection of anti-bot systems, CAPTCHAs & fingerprinting techniques. Identifies Cloudflare, Akamai, DataDome, reCAPTCHA, hCaptcha, Shape Security & more with confidence scoring and advanced capture tools."
+546,489,7836246/gpt-auto-register,Python,no,基于 Python + Selenium 的 ChatGPT 账号全流程自动化工具。支持自动接码、Plus 试用开通及自动取消订阅。
+547,485,KinetiNode/claude-fable-5-system-prompt-clean,,no,"the optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 system prompt. Re-engineered into clean Markdown for universal execution on Gemini 3.1 Pro, ChatGPT 5.6, and advanced LLM agents."
+548,484,browser-use/browser-harness-js,TypeScript,no,Self-healing browser harness that enables LLMs to complete any task
+549,484,ZyphrZero/z.ai2api_python,Python,no,仅供学习
+550,483,snowflakedb/ArcticInference,Python,no,"ArcticInference: vLLM plugin for high-throughput, low-latency inference"
+551,480,PrismML-Eng/llama.cpp,C++,no,LLM inference in C/C++
+552,472,tt-a1i/simplify-codebase,HTML,no,Prove and remove accidental codebase complexity without breaking behavior.
+553,465,XiNian-dada/Fuck_My_Shit_Mountain,HTML,no,An evidence-based AI code audit skill. Professional output. Zero emotional bullshit.
+554,463,baidu/vLLM-Kunlun,Python,no,vLLM Kunlun (vllm-kunlun) is a community-maintained hardware plugin designed to seamlessly run vLLM on the Kunlun XPU.
+555,455,SHAdd0WTAka/Zen-Ai-Pentest,Python,no,"🛡⚔️AI-Powered Penetration Testing Framework with automated vulnerability scanning, multi-agent system, and compliance reporting🛡⚔️"
+556,453,42-evey/hermes-plugins,Python,no,"Custom plugins for hermes-agent — goal management, inter-agent bridge, model selection, cost control"
+557,452,sidinsearch/superbrain,Python,no,"SuperBrain — AI-powered save-it-later brain for Instagram, YouTube & Web"
+558,444,ltlylfun/ResumeToJob,TypeScript,no,简历制作网站📝Resume Maker Website
+559,442,kaibush/grok-register,Python,no,GrokFree注册机 - 支持生成CPA、grok2api、sub2api格式的json鉴权文件
+560,431,vllm-project/tpu-inference,Python,no,"TPU inference for vLLM, with unified JAX and PyTorch support."
+561,430,Cranot/super-hermes,PowerShell,no,Skills that teach Hermes Agent to write its own analytical prompts
+562,429,FakeOAI/tokens,Shell,no,Tokens管理平台，调度管理号池将各大国外AI平台的模型转化为OpenAI、Anthropic、Gemini等平台的API接口标准格式，支持Claude Code、Codex、GeminiCli等终端调用
+563,428,TuGraph-family/chat2graph,Python,no,Chat2Graph: Graph Native Agentic System.
+564,426,redis/redis-vl-python,Python,no,Redis Vector Library. The AI-native Python client for Redis.
+565,408,ruilisi/lsbot,Go,no,Lean & Secure Bot
+566,408,hsernos/Txray,Go,no,xray 跨平台终端客户端 支持Windows linux Mac
+567,407,glidea/one-balance,TypeScript,no,Make ai KEY rotation SMARTER and more SECURE; Cloudflare Worker; Gemini Balance; gpt-load; GPT Load; Lightweight alternate; Free API; OpenRouter Key
+568,403,ReinerBRO/grok-register,Python,no,Automated Grok (x.ai) account registration with DuckMail + headless server support. Auto-push SSO tokens to grok2api.
+569,402,AtomicBot-ai/atomic-llama-cpp-turboquant,C++,no,llama.cpp fork with TurboQuant WHT-rotated KV cache & weight compression + Gemma 4 MTP and Qwen 3.6 NextN speculative decoding (+30-50% throughput).
+570,400,by-scott/cortex,Rust,no,"Cognitive runtime for language models with memory, metacognition, multimodal channels, native plugins, and a self-evolving Executive."
+571,397,sediman-agent/OpenSkynet,TypeScript,no,Your 24/7 Terminator
+572,389,509992828/grok-register,Python,no,
+573,373,gnurio/refactoring-ui-plugin,JavaScript,no,"10 applied skills for Claude Code and Cursor that turn the principles of Refactoring UI into structured AI-assisted design reviews | not affiliated, big fan, get their book here:"
+574,360,Ming-H/yinyuan-skills,,no,yinyuan-skills
+575,359,clusterzx/intellissh,JavaScript,no,A secure and user-friendly web app for managing Linux servers with Artifical Intelligence via SSH—right from your browser.
+576,351,sgl-project/sglang-jax,Python,no,JAX backend for SGL
+577,348,jurieo/chatgpt-share-web,,no,chatgpt、claude、midjourney，grok和gemini官网完整还原，以及Claude Code和Codex完整镜像，包含其官网的全部功能。具有完善的用户体系和流量变现体系。
+578,346,MaoTouHU/OpenClawChinese,JavaScript,no,🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文
+579,339,KuekHaoYang/KResearch,Python,no,"An advanced AI-powered deep research application that synthesizes information from numerous sources to generate comprehensive, well-documented reports on complex topics."
+580,334,Hello-Application-XH/HelloGML,TypeScript,no,智谱清言网页版的 Cloudflare Worker 2API层，提供 OpenAI / Claude / Gemini 三种协议兼容接口，支持流式对话、Tools调用、AI 绘图、视频生成与多账号 Token 轮询。
+581,332,anYuJia/better-douyin,TypeScript,no,打造更好用的douyin，支持作者级下载、播放、点赞收藏、私信、通知、mcp服务接入ai控制，内置ai可以在私信与好友ai聊天。douyin download
+582,327,jia-gao/leanctx,Python,no,"Drop-in prompt compression for production LLM apps. Cut your token bill 40-60% without changing your code. Python SDK, LLMLingua-2, MIT."
+583,327,hulutech-web/novel-video-workflow,Go,no,完全本地的AI小说视频生成工作流，每个人都能成为导演！
+584,327,DestinyCycloid/chatgpt_register_v2_by_AI,Python,no,
+585,320,Pluviobyte/Kiro-auto-register,TypeScript,no,Kiro自动注册，支持邮件验证码获取和多平台账号管理
+586,320,Dicklesworthstone/franken_ocr,Rust,no,"Pure-Rust, CPU-only OCR engine for Baidu Unlimited-OCR (a DeepSeek-OCR-derived 3B MoE VLM). Five-model zoo, custom int8 kernels, no ML framework, no Python, no GPU."
+587,317,stretchcloud/deepscrape,TypeScript,no,
+588,314,win4r/OpenClaw-Skill,,no,
+589,301,akihitohyh/chatgpt-register-sub2api,Python,no,
+590,291,HarimxChoi/google-surf-mcp,TypeScript,no,"Turn Google Search, Papers, and Codebases into an Automatic Local Knowledge Graph for AI Agents."
+591,279,MatheuZSecurity/Furtex,C,no,Post-exploitation and evasion research toolkit for Linux.
+592,277,Moh4696/freecut,Python,no,"Fork of browser-use/video-use with the paid ElevenLabs dependency replaced by free, pluggable transcription (local Whisper by default; VibeVoice-ASR for diarization)."
+593,275,invisiofficial/rk-llama.cpp,C++,no,Llama.cpp with the Rockchip NPU integration as a GGML backend.
+594,274,chixi4/Qwen3.5-9B-ToolHub,Python,no,Qwen3.5-9B ToolHub-v1.0.0
+595,266,laok775/jobflow-for-codex,Python,no,JobFlow for Codex: a local job-search workflow plugin for Codex.
+596,264,stellarlinkco/myclaw,Go,no,Your own personal AI assistant. Any OS. Any Platform. mini clawbot.
+597,263,vakovalskii/searcharvester,Python,no,Self-hosted search + markdown harvester for AI agents. SearXNG (100+ engines) + FastAPI + trafilatura. Tavily-compatible /search plus /extract with size presets and pagination. One-command Docker Compose.
+598,262,XyzenSun/llm-api-enhance,Go,no,"高度自定义的LLM API 增强器,支持模型与渠道级规则控制，PII过滤，非流式转伪流式，超时控制，SystemPrompt修改注入，多代理出口，自定义参数覆盖与请求头请求体修改"
+599,261,tianrking/EdgeMirror,JavaScript,no,
+600,254,sylearn/AICode,Python,no,A comprehensive collection of AI-related utility scripts designed to simplify AI development workflows and automate common tasks. 
+601,249,inbjo/MirrorProxy,Rust,no,"All-in-one mirror acceleration,The project uses an adapter-based proxy core and already ships adapters for GitHub, Docker/OCI, Composer, npm, PyPI, Cargo, Go modules, major language repositories, developer-tool distribution services, and operating system mirrors. "
+602,248,kaitranntt/CLIProxyAPIPlus,Go,no,"CCS-maintained fork of CLIProxyAPIPlus (MIT snapshot, Apr 2026) with daily auto-sync from router-for-me/CLIProxyAPI. See plans for context."
+603,248,chengtx007/fuckoai,Python,no,Linux container registration control panel
+604,246,AuuCoder/gptGrok2api,Python,no,"ChatGPT/GPT 注册机｜Grok 注册机｜全自动纯协议注册，支持 OAuth、邮箱接码、账号池、代理轮换及 OpenAI/Anthropic 兼容 API。GPT/Grok Account Creator & API Gateway with automated registration, email verification and proxy rotation."
+605,244,Felo-Inc/felo-skills,JavaScript,no,
+606,240,starmiaoa/chatgpt-register-k12,Python,no,ChatGPT register to Sub2API exporter with workspace and alias support
+607,240,Ethan-W20/openai-auto-register,Python,no,OpenAI Codex Auto Register & Token Fetcher | OpenAI Codex 自动注册与 Token 提取
+608,239,xyskywalker/Ripple,Python,no,"Ripple（涟漪） 是一个基于 复杂自适应系统（Complex Adaptive System, CAS）理论 构建的 Agent-Native 通用人类社会行为预测引擎。 / Ripple is an Agent-Native universal human social behavior prediction engine built on Complex Adaptive System (CAS) theory."
+609,236,yoshoku/llama_cpp.rb,C,no,llama_cpp.rb provides Ruby bindings for llama.cpp
+610,236,VityaSchel/lufin,TypeScript,no,Read-only mirror of https://git.hloth.dev/hloth/lufin
+611,231,turbo-tan/llama.cpp-tq3,C++,no,"llama.cpp fork with TQ3_1S/4S CUDA kernels — 3.5-bit WHT quantization achieving Q4s quality at 10% smaller size. Based on RaBitQ-inspired Walsh-Hadamard transform. Enables 27B models on 16GB GPUs with 15 tok/s TG, 221 tok/s PP."
+612,220,maxucheng0/grok-auto-register,Python,no,
+613,219,WuMingDao/zenith-image-generator,TypeScript,no,"Modern AI image generator with multi-provider support (Gitee AI, HuggingFace, ModelScope), OpenAI-compatible API, token rotation, and one-click deployment to Cloudflare Pages. "
+614,216,cloudflarebase/cloudflarebase,TypeScript,no,The open-source Firebase for Cloudflare.
+615,213,tingxifa/claude_proxy,TypeScript,no,"这是一个部署在 Cloudflare Workers 上的 TypeScript 项目，它充当一个代理服务器，能够将 Claude API 格式的请求无缝转换为 OpenAI API 格式。这使得任何与 Claude API 兼容的客户端（例如官方的 @anthropic-ai/claude-code CLI）都能够与任何支持 OpenAI API 格式的服务进行通信，如 Google Gemini, Groq, Ollama 等。"
+616,212,Graph-COM/CKA-Agent,Python,no,"[ICML 2026 & ICLR 2026 AIWILD] Official Implementation of the CKA-Agent, ""The Trojan Knowledge: Bypassing Commercial LLM Guardrails via Harmless Prompt Weaving and Adaptive Tree Search""."
+617,205,muratcankoylan/readwren,Python,no,An adaptive multi-agent system that extracts your literary DNA through conversation and generates actionable reading profiles.
+618,200,MoeShinX/relay-panel,Rust,no,"Self-hosted TCP/UDP forwarding management panel with relay-node, WebSocket control, quotas, and traffic stats."
+619,198,nathanskill/niubiskill,Python,no,中文变现决策 Skill：在你继续开发、发内容或追加投入之前，先判断这件事是否接近收入。Chinese monetization decision skill for Claude Code — finds the one revenue point closest to real payment. No income promises.
+620,195,xiamuceer-j/AI-Gamble,Python,no,这是一个基于大型语言模型（LLM）的动态互动小说游戏。它能够根据玩家选择的故事类型，实时生成独特的故事情节、人物、以及一个可视化的故事发展线路图，为玩家提供一个充满未知和选择的沉浸式阅读体验。
+621,187,HSJ-BanFan/grok-register-web,Python,no,Grok 自动注册 Web 平台：Outlook 别名批量注册、SSO 采集，注册成功后自动导入 grok2api（Web / Build）
+622,186,sudokar/openspec-plus,,no,"OpenSpec Plus — Agentic skills that enhance OpenSpec's Spec-Driven Development through better discovery, requirements, design decisions, execution planning and execution. Works with Claude Code, OpenCode, Github Copilot and any other AI coding agents"
+623,186,pixelxzen/phantom-motion,HTML,no,"Phantom-Motion is an incredibly powerful, epic interactive dynamic visual storytelling generator. Its capabilities are limited only by the bounds of your imagination! 它是一个极其硬核的史诗级交互式动态视觉叙事生成器。它的实力只取决于你的想象力高低！"
+624,186,actionbook/ascent-research,Rust,no,research cli for agent
+625,180,sgl-project/sgl-kernel-npu,C++,no,SGLang kernel library for NPU
+626,179,MurasameCyan/GrokRegisterAgent,,no,
+627,178,Sophomoresty/gemini-search-mcp,Python,no,"Free MCP server for web search powered by Google AI Mode (Gemini). Unlimited, no API key."
+628,177,phronmophobic/llama.clj,Clojure,no,Run LLMs locally. A clojure wrapper for llama.cpp.
+629,173,liangdabiao/AI-generated-English-podcast-videos,Python,no,"一键生成英文教育短视频 - 自动生成双人流畅对话、语音讲解、教育单词图片。AI生成英语对话的播客视频！一键生成，下载视频，学英语，发抖音。 AI-generated English conversation podcast videos! Create with one click, download videos, learn English, and share on TikTok."
+630,173,MetaX-MACA/vLLM-metax,Python,no,Community maintained hardware plugin for vLLM on MetaX GPU
+631,166,HJCheng0602/nanoPD,Python,no,A from-scratch Prefill/Decode disaggregation inference engine for LLMs
+632,165,7WaySecurity/ai_osint,,no,"🤖 Curated AI OSINT resources — Google dorks, Shodan queries, GitHub dorks, and techniques to discover exposed LLM endpoints, leaked AI API keys, misconfigured vector databases, and unprotected AI agents"
+633,163,Yonkoo11/hermes-dojo,Python,no,"Self-improvement system for Hermes Agent. Monitors performance, finds weak skills, fixes them with self-evolution, reports results."
+634,159,nihalashetty/Forge,Python,no,"Forge is an open-source, self-hosted alternative for visually building and shipping AI agents and workflows without giving up control of your infrastructure."
+635,155,PacifAIst/Quansloth,Python,no,"Based on the implementation of Google's TurboQuant (ICLR 2026) — Quansloth brings elite KV cache compression to local LLM inference.  Quansloth is a fully private, air-gapped AI server that runs massive context models natively on consumer hardware with ease"
+636,153,DeepAuto-AI/hip-attention,Python,no,Training-free Post-training Efficient Sub-quadratic Complexity Attention. Implemented with OpenAI Triton.
+637,151,yangjian102621/geekai-plus,,no,基于ChatGPT-PLUS 项目开发的高级版，增加了很多高级功能，比如思维导图，Dalle 绘画等。高级版的部分功能会逐步迁移到社区版。
+638,148,van7517/grok-register-mint,Python,no,Grok Register 自动化注册工具 + 自动上传CPA+自动上传grok2api
+639,146,keggin-CHN/kiro-auto-register,Python,no,"kiro注册机,自动获取refresh token等"
+640,144,krishagarwal314/CodeJury,Python,no,"Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run tests, and gate pull requests with deterministic QA and ensemble code review."
+641,136,prasenjeet-symon/ogcode,Go,no,"The token-efficient agentic coding workbench. Built for a future where every token counts — it optimizes token usage at the agent-loop level, saving 70%+ on long sessions, while planning, remembering your codebase, and shipping features in parallel from a single self-hosted binary."
+642,133,pinkpixel-dev/web-scout-mcp,JavaScript,no,"An MCP server providing web search and content extraction capabilities. Integrates DuckDuckGo search functionality and URL content extraction into your MCP environment, enabling AI assistants to search the web and extract webpage content."
+643,132,Kookiejarz/Auto_XDP,Python,no,"Lightweight eBPF/XDP stateful firewall that auto-syncs listening ports and preserves return traffic. Zero-config, maximum defense."
+644,122,marty1885/llama.cpp,C,no,My develoopment fork of llama.cpp. For now working on RK3588 NPU and Tenstorrent backend
+645,122,amanning3390/deepswarm,Python,no,
+646,121,kaichen/amap-skill,TypeScript,no,Claude Code skill for AMap (高德地图) Web Service API
+647,120,MooreThreads/vllm-musa,Python,no,A high-throughput and memory-efficient inference and serving engine for LLMs
+648,119,kociii/youmedhub,Vue,no,一个基于 AI的视频分析、剪辑工具
+649,118,Cambricon/vllm-mlu,Python,no,
+650,114,eooce/webssh,Vue,no,最好用的webssh，超快的连接速度，高并发连接，sftp管理，集成快速连接api
+651,111,Xiaoyangy/novel-studio,Go,no,开源、本地优先的 AI 长篇小说创作引擎：多智能体世界推演、按弧规划、RAG 长程记忆、逐章审核与断点恢复 | Open-source AI novel generator for long-form fiction.
+652,108,valmishq/valmis,TypeScript,no,The AI Agent designed for work with security in mind.
+653,107,miaoge2026/codex-auto-register,Python,no,Codex Auto Registration Tool - 自动化注册OpenAI Codex账号的Python工具
+654,107,Norsico/Openai-Auto-Register,Python,no,一个使用IMAP邮箱实现批量注册某些平台账号（如谷歌，OpenAI等）和管理账号的软件
+655,97,RamKansal/pentestMCP,Python,no,"pentestMCP: AI-Powered Penetration Testing via MCP, an MCP designed for penetration testers."
+656,94,lxf746/any2api,Go,no,
+657,92,lingxiaoyiyu-hub/grok-register-win,Python,no,Windows 下双击即用的 Grok（xAI）账号自动注册面板 - 浏览器自动化注册、SSO→CPA 转换、多邮箱源支持、多格式导出
+658,92,kaibush/grok-iq,TypeScript,no,GrokIQ - grok4.5/grok4.6 free 模型降智检测平台，可与grok-register项目联动使用
+659,72,maile456/codex-auto-register,Python,no,codex注册，提炼，接码，协议支付流水线
+660,72,cyi-cc/chatgpt-register,Go,no,
+661,69,iwyxdxl/PawzoChat,Python,no,一个功能强大的 AI 对话平台，可通过Openclaw通道接入微信与 QQ 双平台，让 AI 角色真正「走入」你的社交网络。
+662,61,khydrogenous/lightspeed,TypeScript,no,"Light Speed is a cross-platform, peer-to-peer, end-to-end encrypted social app for text and media. Messages are encrypted on-device, relayed directly between peers, and deleted after a single view. No moderation, no accounts, no server-side content."
+663,59,akihitohyh/windsurf-auto-register,Python,no,
+664,58,DouDOU-start/chatgpt-register-deploy,Shell,no,ChatGPT 账号注册机 - 一键部署脚本
+665,57,rfunix/tengu,Python,no,AI-powered penetration testing MCP server
+666,53,Fennec-AI/Fennec,Python,no,"Open-source, AI-driven penetration testing framework."
+667,47,TongjiRabbit/gpt-auto-register,Python,no,ChatGPT batch registration with Codex Token auto-fetch and CLIProxyAPI integration
+668,43,BlakQi/grok_reg,Python,no,
+669,42,scvxzf1/grok-protocol,Python,no,Grok registration HTTP TUI/protocol tooling (secrets excluded)
+670,39,xnqycs/OpenCodeGo_Pool,TypeScript,no,OpenCode Go 聚合管理，自动同步CPA
+671,36,yunfanxing6/grok-register,Go,no,Grok free-account register CLI (Go): CloudMail → OAuth → auto-upload to grok2api / CPA
+672,35,huey1in/GrokX,Python,no,Grok 协议注册机 | Grok web 批量自动注册工具
+673,34,heartmore/grok-register-tool,Python,no,Grok TTK register tool snapshot without NSFW module and tutorial UI.
+674,33,ChinaFLTV/GrokRegister,Python,no,
+675,24,asita33/Windsurf_Auto_Register,JavaScript,no,通过插件可以自动注册Windsurf账号，
+676,20,xero00000/expert-streaming-engine,C++,no,"Run oversized sparse MoE GGUF models with bounded NVMe-to-RAM-to-VRAM caching, native multi-GPU planning, and a Linux desktop Studio."
+677,20,riccorik/cursor-auto-icloud,Python,no,Auto registering cursor new account with iCloud hidemyemail features.
+678,20,fu5502/grok_reg-share,Python,no,Grok register web console with Chinese UI and local bat launcher
+679,19,Florisheedless915/grok-register,Python,no,"Automate x.ai registration with a web console, batch runner, WARP egress, and grok2api token sink in one project"
+680,17,lumosdch/grok-register,Python,no,
+681,15,yypyyd/xh-grok-reg,Go,no,
+682,15,wl1162452191-sys/-Chat-GPT-Auto-Register--,Python,no,
+683,14,hello1699/grok-register-mod,Python,no,半自动注册稳定 Grok 账号，可导入 grok2api 和 cpa 使用，手动使用临时邮箱注册。
+684,6,superfat1988/kiro-auto-register-build,,no,
+685,6,intelligent-ears/pd-tools-mcp,TypeScript,no,A Model Context Protocol (MCP) server that integrates [ProjectDiscovery](https://projectdiscovery.io) security tools for automated reconnaissance and vulnerability scanning.
+686,4,ZorIgn/codex-oauth-auto-register,Python,no,GPT free/codex 接码 自动注册机
+687,4,Verifiedlabs/any-auto-register,Python,no,"Auto-register & manage accounts for ChatGPT, Cursor, Kiro, Grok, Windsurf, Trae & 13+ AI platforms · Protocol/browser dual-mode · Plugin-based · One-click Mac/Windows desktop app"
+688,3,axdlee/codex-auto-register,Vue,no,
+689,3,aiptx/aiptx-mcp,,no,"🔐 40+ MCP Security Servers for AI-Powered Pentesting | Integrate Nmap, Burp Suite, Nuclei, Shodan, BloodHound, Semgrep, Trivy | Model Context Protocol for Cybersecurity"
+690,2,gabrielquiloessa/nept-ai,Python,no,"Nept is a lightweight, AI-powered reconnaissance framework for modern penetration testing. It enables fast, modular, and automated intelligence gathering across domains, networks, and web applications with mobile-first design and intelligent analysis."
+691,2,RogerPodacter/Booper,TypeScript,no,
+692,1,muhammadhamad1104/nuevo,TypeScript,no,
+693,1,Maybank01/any-auto-register,,no,
+694,1,717986230/openclaw-workspace,Python,no,
