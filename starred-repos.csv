@@ -730,4 +730,3 @@ rank,stars,full_name,language,archived,description
 729,3,aiptx/aiptx-mcp,,no,"🔐 40+ MCP Security Servers for AI-Powered Pentesting | Integrate Nmap, Burp Suite, Nuclei, Shodan, BloodHound, Semgrep, Trivy | Model Context Protocol for Cybersecurity"
 730,2,RogerPodacter/Booper,TypeScript,no,
 731,2,gabrielquiloessa/nept-ai,Python,no,"Nept is a lightweight, AI-powered reconnaissance framework for modern penetration testing. It enables fast, modular, and automated intelligence gathering across domains, networks, and web applications with mobile-first design and intelligent analysis."
-732,1,717986230/openclaw-workspace,Python,no,

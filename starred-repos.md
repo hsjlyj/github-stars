@@ -1,9 +1,9 @@
 # GitHub Starred Repositories (hsjlyj)
 
-Total: 732 repos · sorted by stars (desc) · archived: 2
+Total: 731 repos · sorted by stars (desc) · archived: 0
 
 ## Language breakdown (top 15)
-- Python: 256
+- Python: 255
 - TypeScript: 163
 - Rust: 74
 - Go: 61
@@ -752,4 +752,3 @@ Total: 732 repos · sorted by stars (desc) · archived: 2
 729. **aiptx/aiptx-mcp** — 3 ⭐ ·  · 🔐 40+ MCP Security Servers for AI-Powered Pentesting | Integrate Nmap, Burp Suite, Nuclei, Shodan, BloodHound, Semgrep, Trivy | Model Context Protocol for Cybersecurity
 730. **RogerPodacter/Booper** — 2 ⭐ · TypeScript
 731. **gabrielquiloessa/nept-ai** — 2 ⭐ · Python · Nept is a lightweight, AI-powered reconnaissance framework for modern penetration testing. It enables fast, modular, and automated intelligence gathering across domains, networks, and web applications with mobile-first design and intelligent analysis.
-732. **717986230/openclaw-workspace** — 1 ⭐ · Python
